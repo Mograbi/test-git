@@ -1,0 +1,12 @@
+{
+  "Node": {
+    "node1": {
+      "Info": "this is info",
+      "Label": "Node1",
+      "LastUpdate": {
+        "date": "20/01/2022",
+        "user": "Mograbi"
+      }
+    }
+  }
+}
